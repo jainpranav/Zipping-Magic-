@@ -20,7 +20,7 @@ Zipping Magic is an application written in Java by Pranav Jain
 
 ## How to Use ?
 
-Download the [Pre-Release Version] (https://github.com/jainpranav/Minesweeper/releases/tag/1.0)
+Download the [Pre-Release Version] (https://github.com/jainpranav/Zipping-Magic-/releases/tag/1.0)
 
 ## How to Use The Code From source ?
 ```bash

@@ -17,7 +17,7 @@ public class ZippingMagic
             public void run() 
             {
                 GUI ex = new GUI();
-		            ex.setVisible(true);
+                ex.setVisible(true);
             }
         });
     }
